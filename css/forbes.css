@@ -1,0 +1,316 @@
+.forbes-page {
+    position: relative;
+    width: 100%;
+    flex: 1;
+    background-size: contain;
+}
+
+.money-green {
+    color: #00A410
+}
+
+.forbes-main {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 246px 0px 158px 0px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.9) 54%, rgba(0, 0, 0, 0.7) 100%);
+}
+
+.forbes-page__title-mobile {
+    display: none;
+}
+
+.forbes-back {
+    width: 100%;
+    height: 1329px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url('../img/forbes/back.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.forbes-page__subtitle {
+    margin: 32px 0px 158px 0px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.test {
+    background: rgba(255, 255, 255, 0.15);
+    height: 1px;
+    width: 100%;
+}
+
+.btn-server {
+    cursor: pointer;
+    transition: 0.3s;
+    background: #191919;
+    border-radius: 126px;
+    width: 111px;
+    min-width: 111px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(255, 255, 255, 0.45);
+}
+
+.forbes-servers-overflow::-webkit-scrollbar {
+    display: none;
+}
+
+.forbes-servers-overflow {
+    padding: 32px 0;
+    width: 100%;
+    overflow-x: scroll;
+}
+
+.btn-server:hover {
+    color: white;
+}
+
+.btn-server:not(:last-child) {
+    margin-right: 16px;
+}
+
+.forbes-page__servers {
+    height: 96px;
+    width: 100%;
+
+}
+
+.servers-red:hover {
+    background: #EA4F3D;
+}
+
+.servers-blue:hover {
+    background: #0D73FD;
+}
+
+.servers-green:hover {
+    background: #65C466;
+}
+
+/* chosen el */
+.servers-red-active,
+.servers-red-active:hover {
+    background: rgba(234, 79, 61, 0.1);
+    color: #EA4F3D;
+}
+
+.servers-blue-active,
+.servers-blue-active:hover {
+    background: rgba(13, 115, 253, 0.15);
+    color: #0D73FD;
+}
+
+.servers-green-active,
+.servers-green-active:hover {
+    background: rgba(101, 196, 102, 0.1);
+    color: #65C466;
+}
+
+/* chosen el */
+
+
+.forbes-page__top-tab {
+    margin: 64px 0px 32px 0px;
+    width: 100%;
+    height: 59px;
+    justify-content: space-between !important;
+}
+
+.forbes-page__top-tab-title {
+    cursor: pointer;
+    transition: 0.2s;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 27px;
+    color: rgba(255, 255, 255, 0.35);
+}
+
+.forbes-page__top-tab-title:hover {
+    color: white;
+}
+
+.forbes-page__top-tab-title:first-child {
+    margin-right: 32px;
+}
+
+
+.forbes-page__top-tab-hr {
+    justify-content: flex-start;
+    padding: 0px 95px;
+    width: 100%;
+    height: 3px;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.forbes-page__top-tab-hr div {
+    transition: 0.3s;
+    width: 43%;
+    height: 3px;
+    background-color: white;
+}
+
+.forbes-page__table {
+    width: 100%;
+}
+
+.forbes-page__table-border {
+    margin: 18px 0px 28px 0px;
+    height: 15px;
+    width: 100%;
+    background: url('../img/forbes/border.svg');
+}
+
+.forbes-page__table tr {
+    display: grid;
+    grid-template-columns: 1fr 7fr 2fr;
+}
+
+.forbes-page__table tr td,
+.forbes-page__table tr th {
+    text-align: left;
+}
+
+.forbes-page__table tr td:last-child {
+    text-align: right;
+}
+
+.forbes-page__table thead {
+    margin-bottom: 18px;
+}
+
+.forbes-page__table thead tr {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.1em;
+    color: rgba(255, 255, 255, 0.45);
+
+}
+
+.forbes-page__table-triangle {
+
+    margin-left: 4px;
+}
+
+.forbes-page__table-triangle img {
+    opacity: 0.45;
+}
+
+.forbes-page__table-triangle img:last-child {
+    margin-left: 2px;
+    transform: rotate(180deg)
+}
+
+.forbes-page__table-line {
+    height: 1px;
+    width: 100%;
+    margin: 28px 0px 32px 0px;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.forbes-page__table-img-block {
+    position: relative;
+    width: 74px;
+    height: 74px;
+    
+}
+
+.forbes-page__table-img-block img {
+    position: absolute;
+     margin-top: 35px; 
+    left: -70px
+}
+.prior{
+    margin-left: 38px;
+}
+.forbes-page__table-img-block div {
+    margin-top: 5px;
+    font-family: GT Walsheim Pro;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    color: #FFFFFF;
+    z-index: 10;
+}
+
+.triangle-active {
+    opacity: 1 !important;
+}
+
+.top-first {
+    height: 86.19px;
+    color: #FFCC00;
+}
+
+.top-second {
+    height: 86.19px;
+    color: #930DFD;
+}
+
+.top-third {
+    height: 86.19px;
+    color: #0D73FD;
+}
+
+.top-info {
+ 
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: GT Walsheim Pro;
+}
+
+.top-circle {
+    width: 72px;
+    height: 72px;
+    background: #242424;
+    border-radius: 50%;
+    margin-right: 38px;
+
+}
+
+.top-circle span {
+    font-family: GT Walsheim Pro;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 37px;
+    text-shadow: 0px 16px 72px rgba(234, 79, 61, 0.18);
+    background: radial-gradient(109.67% 109% at 10.95% 41%, rgba(255, 255, 255, 0.315) 0%, rgba(255, 255, 255, 0) 100%),
+        radial-gradient(60.01% 58.63% at 81.25% 68.75%, rgba(66, 255, 164, 0.7) 0%, rgba(66, 255, 164, 0) 100%),
+        linear-gradient(222.86deg, #0D73FD -7.5%, #266CCB 109.54%),
+        linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.active-tab {
+    color: white;
+}
+
+.top-level-hr {
+    width: 53% !important;
+    transform: translateX(358px);
+}
+
+.top-level-table {
+    display: none;
+}
+
+.forbes-tables {
+    width: 100%;
+}
