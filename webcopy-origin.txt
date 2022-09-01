@@ -1,0 +1,1064 @@
+Uri: https://rdmr.ru/
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\index.htm
+Content Type: text/html
+
+Uri: https://rdmr.ru/favicon/favicon.ico
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://rdmr.ru/font/font.css?v=1641335807
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\font.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/slick.css?v=1641335806
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\slick.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/slick-theme.css?v=1641335806
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/style.css?v=1641831340
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\style.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/news.css?v=1641758945
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\news.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/forbes.css?v=1641824319
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\forbes.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/login.css?v=1641403143
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\login.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/account.css?v=1641818961
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\account.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/main.css?v=1641754461
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\main.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/media.css?v=1641822677
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\media.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/css/donate.css?v=1641583178
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\css\donate.css
+Content Type: text/css
+
+Uri: https://rdmr.ru/news
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\news.html
+Content Type: text/html
+
+Uri: https://rdmr.ru/forbes
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\forbes.html
+Content Type: text/html
+
+Uri: https://rdmr.ru/shop
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\shop.html
+Content Type: text/html
+
+Uri: https://mirror.s6.mtasa.ohbah.com/mtasa/main/mtasa-1.5.9.exe
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\mtasa\main\mtasa-1.5.9.exe
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/gtasa_torrent.torrent
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\gtasa_torrent.torrent
+Content Type: application/x-bittorrent
+
+Uri: https://rdmr.ru/terms.pdf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\terms.pdf
+Content Type: application/pdf
+
+Uri: https://rdmr.ru/privacy-policy.pdf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\privacy-policy.pdf
+Content Type: application/pdf
+
+Uri: https://rdmr.ru/assets/c346ebf0/jquery.js?v=1641999680
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\assets\c346ebf0\jquery.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/assets/239dc641/yii.js?v=1641999680
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\assets\239dc641\yii.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/js/jquery.js?v=1641335813
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/js/slick.js?v=1641335813
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\js\slick.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/js/main.js?v=1641843081
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\js\main.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/img/general/logo.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\general\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/header/user.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\header\user.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/video/video.mp4
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\video\video.mp4
+Content Type: video/mp4
+
+Uri: https://rdmr.ru/video/m.mp4
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\video\m.mp4
+Content Type: video/mp4
+
+Uri: https://rdmr.ru/img/main/play.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\play.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/arrow-vector.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\arrow-vector.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/vector.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\vector.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/arrows.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/arrows-mobile.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\arrows-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/search.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\search.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/heart.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\heart.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/main/r-blue.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\r-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/r-grey.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\r-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/first-server.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\first-server.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/main/url.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\url.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/arrow-right.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/tooltip.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\tooltip.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/r-red.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\r-red.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/second-server.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\second-server.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/main/r-green.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\r-green.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/third-server.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\third-server.png
+Content Type: image/png
+
+Uri: https://dev.rdmr.ru/files/news/236af3f1b204e0eb1eeeea408e7e2d6a.jpg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\236af3f1b204e0eb1eeeea408e7e2d6a.jpg
+Content Type: image/jpeg
+
+Uri: https://rdmr.ru/img/main/vk-blue.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\vk-blue.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/discord.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/vk-red.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\vk-red.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/general/r.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\general\r.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Light.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Light.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Light.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Light.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Light.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Light.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Light.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Light.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Regular.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Regular.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Regular.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Regular.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Regular.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Regular.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-ThinOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-ThinOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-ThinOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-ThinOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-ThinOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-ThinOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-ThinOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-ThinOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-ThinOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-ThinOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Thin.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Thin.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Thin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Thin.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Thin.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Thin.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Thin.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Thin.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BoldOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BoldOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BoldOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BoldOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BoldOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BoldOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BoldOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBold.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBold.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBold.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBold.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBold.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBold.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBold.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBoldOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBoldOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBoldOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBoldOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBoldOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraBoldOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraBoldOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-MediumOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-MediumOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-MediumOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-MediumOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-MediumOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-MediumOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-MediumOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-MediumOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-MediumOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-MediumOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Bold.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Bold.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Bold.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Bold.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Bold.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Bold.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Medium.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Medium.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Medium.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Medium.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Medium.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Medium.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-RegularOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-RegularOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-RegularOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-RegularOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-RegularOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-RegularOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-RegularOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-RegularOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-RegularOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-RegularOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-LightOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-LightOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-LightOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-LightOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-LightOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-LightOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-LightOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-LightOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-LightOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-LightOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLight.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLight.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLight.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLight.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLight.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLight.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLight.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLightOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLightOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLightOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLightOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLightOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLightOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLightOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLightOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-UltraLightOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-UltraLightOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BlackOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BlackOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BlackOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BlackOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BlackOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BlackOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BlackOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BlackOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-BlackOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-BlackOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Black.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Black.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Black.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Black.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Black.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Black.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-Black.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBold.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBold.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBold.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBold.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBold.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBold.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBold.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLight.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLight.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLight.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLight.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLight.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLight.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLight.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBoldOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBoldOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBoldOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBoldOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBoldOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBoldOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBoldOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLightOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLightOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLightOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLightOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLightOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLightOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLightOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLightOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedLightOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedLightOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThin.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThin.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThin-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThin.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThin.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThin.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThin.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThin.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThin.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLightOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLightOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLightOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLightOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLightOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLightOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLightOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLightOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLightOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLightOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMedium.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMedium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMedium.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMedium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMedium.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMedium.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMedium.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMedium.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMedium.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMedium.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlackOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlackOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlackOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlackOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlackOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlackOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlackOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlackOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlackOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlackOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegular.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegular.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegular.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegular.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegular.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegular.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegular.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegular.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThinOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThinOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThinOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThinOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThinOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThinOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThinOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThinOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedThinOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedThinOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBold.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBold.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBold.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBold.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBold.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBold.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBold.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegularOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegularOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegularOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegularOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegularOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegularOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegularOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegularOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedRegularOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedRegularOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLight.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLight.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLight.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLight-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLight.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLight.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLight.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLight.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraLight.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraLight.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBoldOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBoldOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBoldOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBoldOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBoldOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBoldOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBoldOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBoldOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedUltraBoldOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedUltraBoldOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMediumOblique.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMediumOblique.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMediumOblique.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMediumOblique-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMediumOblique.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMediumOblique.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMediumOblique.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMediumOblique.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedMediumOblique.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedMediumOblique.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlack.eot
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlack.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlack.eot?
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlack-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlack.woff2
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlack.woff2
+Content Type: font/woff2
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlack.woff
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlack.woff
+Content Type: font/woff
+
+Uri: https://rdmr.ru/font/GTWalsheimPro-CondensedBlack.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\GTWalsheimPro-CondensedBlack.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/font/PlayfairDisplay-Black.ttf
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\font\PlayfairDisplay-Black.ttf
+Content Type: application/octet-stream
+
+Uri: https://rdmr.ru/img/general/points.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\general\points.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/news/news.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\news\news.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/news/news-hover.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\news\news-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/forbes/back.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\back.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/forbes/border.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\border.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/login/back.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\login\back.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/account/arrow-left.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/arrow-right.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/point.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\point.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/star.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\star.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/star-hover.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\star-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/clock.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/clock-hover.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\clock-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/clanBack.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\clanBack.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/account/clanBackHover.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\clanBackHover.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/account/i-bank.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\i-bank.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/i-cash.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\i-cash.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/cash-hover.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\cash-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/flag.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\flag.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/flag-red.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\flag-red.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/account/flag-green.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\account\flag-green.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/start-back.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\start-back.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/main/simple-back.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\simple-back.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/main/car.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\car.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/main/simple-mobile.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\main\simple-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/donate/donat-top-bg.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-top-bg.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/popup-donat-pack-bg.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\popup-donat-pack-bg.png
+Content Type: image/png
+
+Uri: https://dev.rdmr.ru/files/news/088d1ffcdd6d08d17bb53ff90db347fa.jpg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\088d1ffcdd6d08d17bb53ff90db347fa.jpg
+Content Type: image/jpeg
+
+Uri: https://dev.rdmr.ru/files/news/83408b2d6d2677d4ff7eaf33b2c9aea5.jpg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\83408b2d6d2677d4ff7eaf33b2c9aea5.jpg
+Content Type: image/jpeg
+
+Uri: https://dev.rdmr.ru/files/news/1Yktc3XmQQ0hbIigmFSB_dPeGJL3mQLJ.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\1Yktc3XmQQ0hbIigmFSB_dPeGJL3mQLJ.png
+Content Type: image/png
+
+Uri: https://dev.rdmr.ru/files/news/hDQki-6Znh6uHJic-5VGY8g24TgaOash.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\hDQki-6Znh6uHJic-5VGY8g24TgaOash.png
+Content Type: image/png
+
+Uri: https://dev.rdmr.ru/files/news/tZ02o9VpdZQP68xGBGulMf0UcXI5knJv.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\files\news\tZ02o9VpdZQP68xGBGulMf0UcXI5knJv.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/forbes/title.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\title.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/forbes/forbes-mobile.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\forbes-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/forbes/first.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\first.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/forbes/second.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\second.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/forbes/third.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\forbes\third.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/vue@3.2.26/dist/vue.global.prod.js
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\npm\vue@3.2.26\dist\vue.global.prod.js
+Content Type: application/javascript
+
+Uri: https://rdmr.ru/img/donate/donat-item-1-black.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-1-black.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-1.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-1.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-2-black.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-2-black.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-2.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-2.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-3-black.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-3-black.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-3.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-3.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/donat-item-4-1.png
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\donat-item-4-1.png
+Content Type: image/png
+
+Uri: https://rdmr.ru/img/donate/white.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\white.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/donate/black.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\donate\black.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/login
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\login.html
+Content Type: text/html
+
+Uri: https://rdmr.ru/img/general/close.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\general\close.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/login/check.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\login\check.svg
+Content Type: image/svg+xml
+
+Uri: https://rdmr.ru/img/login/polygon.svg
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\img\login\polygon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.google.com/recaptcha/api.js?hl=ru&render=explicit&onload=recaptchaOnloadCallback
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://rdmr.ru/assets/239dc641/yii.activeForm.js?v=1641999680
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\assets\239dc641\yii.activeForm.js
+Content Type: application/javascript
+
+Uri: https://discord.com/invite/vCUWxsT
+File Name: C:\Users\1\Desktop\Ярлыки\Сайт радмира\обновлённый сайт\rdmr.ru\invite\vCUWxsT.html
+Content Type: text/html
+
